@@ -1,4 +1,4 @@
--SM63 IGT v1.0-
+# SM63 IGT v1.0
 
 Timing starts automatically when the Start button is pressed on the main menu.
 Timing ends depending on the active category.
