@@ -1,4 +1,4 @@
-# SM63 IGT v1.0
+# SM63 IGT v1.1
 
 Timing starts automatically when the Start button is pressed on the main menu.
 Timing ends depending on the active category.
@@ -13,6 +13,12 @@ Timing ends depending on the active category.
 * ASC
 	* Timing ends when 64 star coins are collected.
 	* Used for All Star Coins.
+* 3Key
+	* Timing ends when the Save animation finishes after defeating Fake Bowser.
+	* Used for 3 Keys.
+* Cock
+	* Timing ends when Test Course is pressed.
+	* Used for Cock%.
 
 ## Hotkeys
 * , - Reset timer
@@ -20,7 +26,6 @@ Timing ends depending on the active category.
 * Control+Tab - Change category
 
 ## Timer formats
-* Frames
 * HH:MM:SS:mmm
 	* H - Hours
 	* M - Minutes
@@ -31,3 +36,4 @@ Timing ends depending on the active category.
 	* M - Minutes
 	* S - Seconds
 	* F - Frames
+* Frames
