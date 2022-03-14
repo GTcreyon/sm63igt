@@ -112,6 +112,10 @@ else
          frames = 0;
          _root.timerRunning = false;
       }
+      if(Key.isDown(190))
+      {
+         _root.timerRunning = !_root.timerRunning;
+      }
       this.swapDepths(0);
       this.swapDepths(_root.getNextHighestDepth());
       if(_root.timerRunning)
